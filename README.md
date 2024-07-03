@@ -7,6 +7,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
+[Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history) | Michigan | 3 weeks |5 hours/week | self-paced | none
 
 ## Programming
 
