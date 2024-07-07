@@ -33,6 +33,11 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Introduction to Probability and Data](https://imp.i384100.net/9WZ4E0) | Duke | 5 weeks | 5-7 hours/week | twice a month | none
 [Intro to Statistics ](https://imp.i115008.net/intro-to-statistics) | Udacity | 8 weeks | 5-7 hours/week | self-paced | none
 
+## Networks
+
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history) | Michigan | 3 weeks |5 hours/week | self-paced | none
 
 ## Systems
 
